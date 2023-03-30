@@ -1,0 +1,5 @@
+Iovu Sebi 3 5 5 2004 3 Geometrie 8.75 Algebra 6.30 Informatica 10.00
+Costin Dan 5 23 6 2001 4 Geometrie 7.90 Algebra 10.00 Informatica 6.69 Desen 8.30
+Popescu Ionut 8 11 7 1997 6 Geometrie 6.54 Algebra 4.98 Informatica 3.00 Desen 6.66 Sport 8.98 Engleza 7.67
+Mirabela Maria 5 6 4 2001 5 Geometrie 6.75 Algebra 9.30 Informatica 6.00 Desen 7.29 Sport 10.00
+Popescu Andreea 3 5 1 2004 4 Geometrie 7.35 Algebra 8.37 Informatica 10.00 Desen 9.24

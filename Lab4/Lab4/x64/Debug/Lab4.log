@@ -1,0 +1,8 @@
+﻿  Lab4.cpp
+C:\Users\edyio\OneDrive\Desktop\Lab4\Lab4\Lab4.cpp(64,16): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\edyio\OneDrive\Desktop\Lab4\Lab4\Lab4.cpp(209,31): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\edyio\OneDrive\Desktop\Lab4\Lab4\Lab4.cpp(245,31): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\edyio\OneDrive\Desktop\Lab4\Lab4\Lab4.cpp(239,20): warning C4101: 'max3': unreferenced local variable
+C:\Users\edyio\OneDrive\Desktop\Lab4\Lab4\Lab4.cpp(239,14): warning C4101: 'max2': unreferenced local variable
+C:\Users\edyio\OneDrive\Desktop\Lab4\Lab4\Lab4.cpp(239,8): warning C4101: 'max1': unreferenced local variable
+  Lab4.vcxproj -> C:\Users\edyio\OneDrive\Desktop\Lab4\x64\Debug\Lab4.exe
