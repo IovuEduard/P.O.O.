@@ -1,0 +1,10 @@
+﻿  Polynom.cpp
+  Tema polinoame.cpp
+C:\Users\edyio\OneDrive\Desktop\Laborator POO\Tema polinoame\Tema polinoame\Tema polinoame.cpp(10,21): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\edyio\OneDrive\Desktop\Laborator POO\Tema polinoame\Tema polinoame\Tema polinoame.cpp(14,22): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Generating Code...
+Tema polinoame.obj : error LNK2019: unresolved external symbol "public: __cdecl Polynom<float>::Polynom<float>(int,float * const)" (??0?$Polynom@M@@QEAA@HQEAM@Z) referenced in function main
+Tema polinoame.obj : error LNK2019: unresolved external symbol "public: __cdecl Polynom<float>::Polynom<float>(class Polynom<float> const &)" (??0?$Polynom@M@@QEAA@AEBV0@@Z) referenced in function main
+Tema polinoame.obj : error LNK2019: unresolved external symbol "class std::basic_ostream<char,struct std::char_traits<char> > & __cdecl operator<<(class std::basic_ostream<char,struct std::char_traits<char> > &,class Polynom<float> &)" (??6@YAAEAV?$basic_ostream@DU?$char_traits@D@std@@@std@@AEAV01@AEAV?$Polynom@M@@@Z) referenced in function main
+Tema polinoame.obj : error LNK2019: unresolved external symbol "public: class Polynom<float> __cdecl Polynom<float>::operator-(class Polynom<float>)" (??G?$Polynom@M@@QEAA?AV0@V0@@Z) referenced in function main
+C:\Users\edyio\OneDrive\Desktop\Laborator POO\Tema polinoame\x64\Debug\Tema polinoame.exe : fatal error LNK1120: 4 unresolved externals
